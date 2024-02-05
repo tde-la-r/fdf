@@ -6,7 +6,7 @@
 /*   By: tde-la-r <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/09 23:26:04 by tde-la-r          #+#    #+#             */
-/*   Updated: 2024/02/05 17:28:25 by tde-la-r         ###   ########.fr       */
+/*   Updated: 2024/02/05 20:56:56 by tde-la-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 # define WIN_HEIGHT 963
 # define WIN_WIDTH 1920
 # define MENU_WID 240
-# define MODEL_WIDTH (WIN_WIDTH - MENU_WID)
+# define MODEL_WIDTH 1680
 # define MENU "Menu.png"
 # define COLOR_NAVY 0x000080
 # define COLOR_TEAL 0x008080

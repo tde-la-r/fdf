@@ -1,0 +1,6 @@
+MacroLibX/
+*.o
+a.out
+fdf
+libft/libft.a
+test.c
